@@ -1,3 +1,10 @@
-# C program to display a few fractals (Mandelbrot, Julia, Tricorn).
+# Fractol  
 
-Makefile is set-up to use MiniLibX directly from pre-installed system files. In order to compile fluently, re-link Makefile MiniLibX utilization to /man3 (unless your OS contains MiniLibX)
+Created in macOS. Requires Minilibx (see path in Makefile).
+
+Contains visualization for Mandelbrot and Julia set. Fractals can be zoomed,  
+but in limited depth.
+
+
+https://github.com/Ultsi00/fractol/assets/60548494/9c61ff0d-2f15-434d-8101-e105ecc9d51c
+
